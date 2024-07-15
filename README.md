@@ -1,9 +1,8 @@
 # Overview
 
 | Developed by | jenisys |
-
-| Date of development | Jun 22, 2024 |
 | --- | --- |
+| Date of development | Jun 22, 2024 |
 | Validator type | rule-following |
 | License | MIT License |
 | Input/Output | Output |
