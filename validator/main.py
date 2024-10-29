@@ -26,7 +26,6 @@ from guardrails.validator_base import (
     register_validator,
 )
 import rstr
-import pytest
 
 
 # -----------------------------------------------------------------------------
